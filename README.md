@@ -16,6 +16,8 @@ Make sure the Method is on POST and click on SAVE.
 # env file
 Make sure to save your GOOGLE_API in the .env file as
 GOOGLE_API_KEY="your_key"
+# Running the Chatbot
+After all the above steps are complete , run the python script after installing all the rerquired packages and then start using the chatbot :)
 # AI Features and Drawbacks
 This AI can be configured to different modes by typing the word "configure" .
 There are 4 Modes : Tutor, Buddy, Explaination , Normal
